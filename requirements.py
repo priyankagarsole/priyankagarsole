@@ -5,5 +5,8 @@ def sum():
     y=25
     z = x+y
     return z
+# print("The sum is:",sum)
 
-print("The sum is:",sum)
+print("Python code written for sum")
+
+print("SUM calculated successfully.")
