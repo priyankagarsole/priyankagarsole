@@ -6,4 +6,4 @@ def sum():
     z = x+y
     return z
 
-print("The sum is:",z)
+print("The sum is:",sum)
