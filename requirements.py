@@ -10,3 +10,10 @@ def sum():
 print("Python code written for sum")
 
 print("SUM calculated successfully.")
+
+def mul(a,b):
+    c = a*b
+    return c
+
+print("The multiplication is:", mul(10,25))
+
