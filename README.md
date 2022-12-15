@@ -18,6 +18,9 @@ priyanka.garsole.rw@gmail.com
 
 💻 Tech/Solution Stack:
 ![image](https://user-images.githubusercontent.com/66243949/207801662-b8105049-dadf-4fa3-8c44-d84c74265cd9.png) 
+
+![image](https://user-images.githubusercontent.com/66243949/207850306-23aa2188-90e7-462e-b336-5acc33628b37.png)
+
 ![image](https://user-images.githubusercontent.com/66243949/207808508-9ef7a03f-da95-4282-a704-6525d2db696c.png) ![image](https://user-images.githubusercontent.com/66243949/207804248-e92ef565-0336-46c9-9773-6674620a59d7.png)  
 
 ![image](https://user-images.githubusercontent.com/66243949/207809573-c8e13271-ff25-4c77-b988-c33b7afd712a.png)
